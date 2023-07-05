@@ -1,0 +1,204 @@
+        --- Directions ---
+  **--- Mosquito Indicator ---**
+  @version: 2.9.8
+  @author : CrossingVoid, Simon
+  @date   : 2022-12-08
+  @email  : extremehiggsboson@gmail
+            .com
+ 
+-----------------------------------
+New version 1.1.0 release:
+  adding music player and user 
+selected info dashboard.
+-----------------------------------
+New version 1.2.0 release:
+  fixing 2D ploting decoration:
+make the gradient arrow disappeared
+only admin directly modify raw code
+can open the function.
+-----------------------------------
+New version 1.2.1 release:
+  fixing the info on picture of
+continued drawing.
+-----------------------------------
+New version 2.2.1 release:
+  changing the whole designs. It is
+a big change so if you encounter 
+some bugs, welcome to comment below
+or contect with us!
+-----------------------------------
+New version 2.2.2 release:
+  fixing table view button make
+select arrow appear.
+  fixing select label relief style
+when not be selected.
+-----------------------------------
+New version 2.2.3 release:
+  fixing setting method solitary 
+use. Make the method "adjust frame"
+and "adjust volume" can be
+approached by normal property.
+-----------------------------------
+New version 2.2.4 release:
+  fixing known issue: grab data
+date error.
+-----------------------------------
+New version 2.2.5 release:
+  fixing music player empty page,
+from sparkle to keeping single
+color "red".
+-----------------------------------
+New version 2.3.5 release:
+  make the 2.2.1 big change style
+completely move successed, we hope
+you like this new design. 
+Stay tuned!
+-----------------------------------
+New version 2.4.5 release:
+  releasing new gui that the result
+part available!
+-----------------------------------
+New version 2.4.6 release:
+  fixing combine csv files re-write
+when using another model.
+-----------------------------------
+New version 2.4.7 release:
+  adding save gif button.
+-----------------------------------
+New version 2.5.7 release:
+  adding a glance that can see all
+station in a grid of lontitude and
+latitude when user choosing city.
+A station be selected, it color 
+turn red, and will more info will 
+show on the top of grid. 
+-----------------------------------
+New version 2.6.7 release:
+  adding pause-play radio button in
+the step of result, and when in 
+pause mode, it is available for 
+user click the date prefered.
+-----------------------------------
+New version 2.7.7 release:
+  adding 1D plot for a particular
+station that a week change and show
+the local max and min in picture.
+-----------------------------------
+New veriosn 2.7.8 release:
+  fixing some issue:
+(a) remove 嘉義市
+(b) continue checking station where
+    will lead to error during 
+    grabing data.
+(c) repair error for label in image
+    covering main ploting issue.
+-----------------------------------
+New version 2.8.8 release:
+  adding scale of mosquito maximum,
+helping more visualize performance.
+-----------------------------------
+New version 2.9.8 release:
+  fixing grabbing data process, 
+the meta site suddenly add some
+test station, so it lead to our 
+datas not coordinate. Now it be 
+solved.
+-----------------------------------
+
+ First, Thank you for using this
+application.
+ This application is called:
+Mosquito Indicator which can 
+using given temp find rainfull data
+to predict next seven days each
+stations in an area mosquito 
+numbers. This predication can be 
+seen as a reference and if there 
+would happen a potential event
+for "Dengue Fever".
+
+ 1. Open application
+As soon as you open our app
+it will make fullscreen root.
+#Selective function:
+-- Background Color: This can 
+change the root background color.
+(you will find nothing because
+there have a default cover that
+making root background invisible)
+-- Windows Cover: You can choice
+your favortie image to become new
+cover.
+(P.S. you can add your own cover 
+files to the path images\covers)
+
+#Option:
+-- Add Mosquito: Add a mosquito
+to your root making more dynamic!
+(it can be sometimes annoyed)
+-- Mosquito List: Trace all 
+mosquito whether in or out of the
+root and the right side have two
+buttons, one is the reload button
+once it touched, the page will be
+update one time. The other button 
+is auto update button, it is a 
+radiobutton means it only has 
+on/off states, when on mode is 
+opened, the page would auto update
+with current frequency(it can also 
+control, see #Setting -- Adjust
+Frames)
+
+#Setting:
+-- Adjust Frames: It controls root
+update frequency
+-- Adjust Volume: It controls bgm
+in this app(Notice! only bgm would
+change volume, the sound effect 
+will NOT changed)
+-- Main Page: Back to the main 
+page
+
+ 2. Using application
+Opening app, in front of you is 
+the main page, three option showed,
+"Start" would start our main 
+function, "Setting" can go to new 
+window and adjusting volume and
+frame update frequency, "Help" 
+button just show the whole 
+documentation now.
+
+As soon as you choose the Start, 
+the user inputs interface will 
+begin. The first step is 
+"Select City", click a city name to
+choice area be predicted.
+(P.S. if a county name is show in
+gray color, it indicate the county
+not available now.) Then a calendar
+showed, tap a date grid you want
+and waiting a moment the waiting 
+time length depending on your 
+laptap and the net speed you have.
+Then, last option: "Select model", 
+you should select a model to 
+predict next seven days mosquito 
+trends.
+
+After completing the input section,
+you can see a animation of future 
+trend(Notice! you can adjust frame
+update frequency to control the gif
+change speed, and sometimes you 
+want stop the animation looking up
+a paarticular date to do some
+research the pause button you don't
+miss it! Beside of 2D ploting,
+click "i" button which pop up a new 
+window and can choice the station
+seven days trend 1D ploting will
+presented.
+
+
